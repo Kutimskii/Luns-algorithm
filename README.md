@@ -1,5 +1,5 @@
 # Алгоритм луна на JavaScript
-***''function validate(cardNumber) {  
+***``function validate(cardNumber) {  
  let resultSum = 0;  
   cardNumber.forEach((element, index) => {  
     let i = +element;  
@@ -19,4 +19,4 @@
   if (resultSum % 10 === 0) {  
     return true;  
   } else return false;  
-}''***
+}``***
