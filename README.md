@@ -9,7 +9,7 @@
     `} else {`  
       `odd = index % 2 !== 0;`  
     `}`  
-    `if (odd) { ` 
+    `if (odd) {`   
      ` i = i * 2; `   
       `i > 9 ? (resultSum += i - 9) : (resultSum += i);`  
     `} else {`  
