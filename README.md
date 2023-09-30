@@ -1,1 +1,1 @@
-# Luns-algorithm
+# Алгоритм луна на JavaScript
