@@ -1,6 +1,6 @@
 # Алгоритм луна на JavaScript
-***`function validate(cardNumber) {  
- let resultSum = 0;  
+***`function validate(cardNumber) {`  
+` let resultSum = 0;  `
   cardNumber.forEach((element, index) => {  
     let i = +element;  
     let odd = null;  
