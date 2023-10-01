@@ -1,4 +1,4 @@
-# Алгоритм луна на JavaScript
+# Алгоритм Луна на JavaScript
 ***`function validate(cardNumber) {`  
 ` let resultSum = 0;`  
   `cardNumber.forEach((element, index) => {`  
